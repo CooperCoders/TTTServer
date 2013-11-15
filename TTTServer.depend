@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1384138148 source:c:\users\jason\documents\tttserver\main.cpp
+	<iostream>
+	<math.h>
+	<ctime>
+	<winsock2.h>
+	<sstream>
+	<string>
+	<stdlib.h>
+
